@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://fadu404is-creator.github.io/gamer-challenger-guide/sitemap.xml
